@@ -22,3 +22,6 @@ Welcome to the Voice-Powered ChatBOT project! This chatbot application utilizes 
 2. Extract the zip
 3. Run it via terminal (Run the `voicebot.py` for voice mode and `chatbot.py` for text mode)
 4. You might need to run `chmod` (only for unix-like systems)
+
+----------------------------
+Project Status: Ended
